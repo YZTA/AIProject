@@ -10,7 +10,7 @@
 ## Ürünün İsmi
  * CV Analiz ve Kişiye Özel Başvuru Asistanı
 ## Product Backlog URL
-* https://miro.com/app/board/uXjVM-Ye30g=/   
+* https://miro.com/app/board/uXjVIgi0pus=/?share_link_id=894717835749
 ## Ürün Açıklaması
 * Kullanıcının CV’sini analiz ederek, başvurduğu pozisyona uygunluk derecesini değerlendiren; eksik, yeterli veya öne çıkan becerileri yorumlayan ve kişiye özel motivasyon mektubu ve gelişim planı sunan yapay zeka destekli bir asistan geliştirilmesidir. Bu asistanı içeren bir web sitesi oluşturacağız.
 ## Ürün Özellikleri
@@ -35,13 +35,13 @@ ________________________________________
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 90 Puan
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in yarısı fikir üretme ve araştırmaya ayrıldığından ilk sprint puanı 90 olarak kararlaştırılmıştır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in yarısı fikir üretme ve araştırmaya ayrıldığından ilk sprint puanı 70 olarak kararlaştırılmıştır.
 - **Daily Scrum**: Daily Scrum toplantı notları Trello üzerindeki ''Daily Scrum Meeting Notes'' bölümünden ulaşa bilirsiniz. Toplantılar Google meets üzerinden gerçekleştirilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları: 
-TRello fotosu konulacak
-- **Sprint Review**: 
+  
+- **Sprint Review**:
 *Tüm ekip toplantılara aktif bir şekilde katıldı.
 *Proje ihtiyaçları başarıyla analiz edildi.
 *Kullanıcı senaryoları çıkarıldı ve dökümante edildi.
@@ -51,7 +51,8 @@ TRello fotosu konulacak
 - **Sprint Retrospektif**:
 * Bu sprintte iş ve okul sebeplerinden görev alamayan arkadaşlarımıza ikinci sprintte görev tanımlamaları yapılması kararı alındı.
 * Backend bölümü için daha fazla zaman ayırmaya karar verildi.
-* Önümüzdeki sprintin ortalama puanı x olarak belirlendi, sprint hızına göre bu puan arttırılabilir.
+* İlk sprintte sprint hızımız yavaş kaldı, bunun kritiği yapıldı ve tamamlanması gerekenler 2. sprinte ertelendi.
+* Önümüzdeki sprintin ortalama puanı 150 olarak belirlendi, sprint hızına göre bu puan arttırılabilir.
 * UX UI tarafında çalışmalara ve web sayfası tasarımına başlanılacak.
 * Eksik ve yavaş kaldığımız taraflarımız tarşıldı önümüzdeki sprint için önlemnler ve iyileştirmeler yapma kararı aldık.
 * En güçlü yanlarımızdan biri olan ekip içi iletişim için tüm takım tebrik edildi.
