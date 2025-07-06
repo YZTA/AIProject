@@ -40,7 +40,7 @@ ________________________________________
 - **Daily Scrum**: Daily Scrum toplantı notları Trello üzerindeki ''Daily Scrum Meeting Notes'' bölümünden ulaşa bilirsiniz. Toplantılar Google meets üzerinden gerçekleştirilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları: 
-  
+![image](https://github.com/AliDmrcIo/AIProject/blob/1e4bcf1c18cdb2e1a55a546df264506aee7ffff5/1st.sprint.ss.jpg)
 - **Sprint Review**:
 *Tüm ekip toplantılara aktif bir şekilde katıldı.
 *Proje ihtiyaçları başarıyla analiz edildi.
