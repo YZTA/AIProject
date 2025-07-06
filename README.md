@@ -31,6 +31,12 @@ o	CV ve ilan yan yana gösterilir, alt kısımda yorumlar ve skorlar yer alır.
 o	“Bu pozisyona başvuranların %65’i X becerisine sahip.”
 *	Sektör Bazlı Değerlendirme:
 o	Pozisyonun özelliğine göre farklı ağırlıklar atanır.
+## Ürün Durumu:
+* UI kısmına 2. sprintte başlamaya karar verildiğinden dolayı web sitesi için ürün görseli bulunmamakta. Bu nedenle, aşağıya backend kısmındaki ilerlememizi gösteren birkaç fast api görseli ve terminal çıktıları eklenmiştir. 2.sprintte UI tasarımlarımızı göreceksiniz.
+![image](https://github.com/AliDmrcIo/AIProject/blob/main/fastapi.jpeg?raw=true)
+![image](https://github.com/AliDmrcIo/AIProject/blob/main/fastapi2.jpeg?raw=true=)
+![image](https://github.com/AliDmrcIo/AIProject/blob/main/%C3%A7%C4%B1kt%C4%B11.jpeg?raw=true)
+![image](https://github.com/AliDmrcIo/AIProject/blob/main/%C3%A7%C4%B1kt%C4%B12.jpeg?raw=true)
 ________________________________________
 
 
