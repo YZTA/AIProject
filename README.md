@@ -11,6 +11,7 @@
  * CV Analiz ve Kişiye Özel Başvuru Asistanı
 ## Product Backlog URL
 * https://miro.com/app/board/uXjVIgi0pus=/?share_link_id=894717835749
+ ![image](https://github.com/AliDmrcIo/AIProject/blob/main/1.sprint.png?raw=true)
 ## Ürün Açıklaması
 * Kullanıcının CV’sini analiz ederek, başvurduğu pozisyona uygunluk derecesini değerlendiren; eksik, yeterli veya öne çıkan becerileri yorumlayan ve kişiye özel motivasyon mektubu ve gelişim planı sunan yapay zeka destekli bir asistan geliştirilmesidir. Bu asistanı içeren bir web sitesi oluşturacağız.
 ## Ürün Özellikleri
