@@ -45,7 +45,7 @@ ________________________________________
 - **Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in yarısı fikir üretme ve araştırmaya ayrıldığından ilk sprint puanı 70 olarak kararlaştırılmıştır.
 - **Daily Scrum**: Daily Scrum toplantı notları Trello üzerindeki ''Daily Scrum Meeting Notes'' bölümünden ulaşabilirsiniz. Toplantılar Google meets üzerinden gerçekleştirilmiştir.
-- https://trello.com/b/Eje6mb0v/team103-1st-sprint
+- https://trello.com/invite/b/686513bcb351ad746fd6d6d6/ATTI97db9bd0468b087cddff5c9487e42ab6388E9A69/team103-1st-sprint
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![image](https://github.com/AliDmrcIo/AIProject/blob/1e4bcf1c18cdb2e1a55a546df264506aee7ffff5/1st.sprint.ss.jpg)
