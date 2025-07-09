@@ -31,20 +31,21 @@ o	CV ve ilan yan yana gösterilir, alt kısımda yorumlar ve skorlar yer alır.
 o	“Bu pozisyona başvuranların %65’i X becerisine sahip.”
 *	Sektör Bazlı Değerlendirme:
 o	Pozisyonun özelliğine göre farklı ağırlıklar atanır.
+
+________________________________________
+
+
+# Sprint 1
 ## Ürün Durumu:
 * UI kısmına 2. sprintte başlamaya karar verildiğinden dolayı web sitesi için ürün görseli bulunmamakta. Bu nedenle, aşağıya backend kısmındaki ilerlememizi gösteren birkaç fast api görseli ve terminal çıktıları eklenmiştir. 2.sprintte UI tasarımlarımızı göreceksiniz.
 ![image](https://github.com/AliDmrcIo/AIProject/blob/main/fastapi.jpeg?raw=true)
 ![image](https://github.com/AliDmrcIo/AIProject/blob/main/fastapi2.jpeg?raw=true=)
 ![image](https://github.com/AliDmrcIo/AIProject/blob/main/%C3%A7%C4%B1kt%C4%B11.jpeg?raw=true)
 ![image](https://github.com/AliDmrcIo/AIProject/blob/main/%C3%A7%C4%B1kt%C4%B12.jpeg?raw=true)
-________________________________________
-
-
-# Sprint 1
-
 - **Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in yarısı fikir üretme ve araştırmaya ayrıldığından ilk sprint puanı 70 olarak kararlaştırılmıştır.
-- **Daily Scrum**: Daily Scrum toplantı notları Trello üzerindeki ''Daily Scrum Meeting Notes'' bölümünden ulaşa bilirsiniz. Toplantılar Google meets üzerinden gerçekleştirilmiştir.
+- **Daily Scrum**: Daily Scrum toplantı notları Trello üzerindeki ''Daily Scrum Meeting Notes'' bölümünden ulaşabilirsiniz. Toplantılar Google meets üzerinden gerçekleştirilmiştir.
+- https://trello.com/b/Eje6mb0v/team103-1st-sprint
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![image](https://github.com/AliDmrcIo/AIProject/blob/1e4bcf1c18cdb2e1a55a546df264506aee7ffff5/1st.sprint.ss.jpg)
