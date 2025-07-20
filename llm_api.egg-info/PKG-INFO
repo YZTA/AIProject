@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: llm-api
+Version: 0.1.0
+Summary: A professional FastAPI project with an integrated LLM.
+Author-email: Adınız Soyadınız <email@adresiniz.com>
+Requires-Python: >=3.9
+Requires-Dist: fastapi
+Requires-Dist: uvicorn[standard]
+Requires-Dist: pydantic-settings
+Requires-Dist: sqlalchemy
+Requires-Dist: psycopg2-binary
+Requires-Dist: alembic
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: httpx; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: pytest-asyncio; extra == "dev"

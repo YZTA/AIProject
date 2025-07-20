@@ -1,0 +1,43 @@
+[project]
+name = "llm-api"
+version = "0.1.0"
+description = "A professional FastAPI project with an integrated LLM."
+authors = [
+    { name = "Adınız Soyadınız", email = "email@adresiniz.com" },
+]
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "pydantic-settings",
+    "sqlalchemy",
+    "psycopg2-binary",
+    "alembic",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "httpx",
+    "ruff",
+    "black",
+    "pytest-asyncio",
+]
+
+# --- YENİ EKLENEN BÖLÜM BURASI ---
+[tool.setuptools.packages.find]
+where = ["."]  # Paketleri ana dizinde ara
+include = ["app*"]  # Sadece "app" ile başlayan paketleri dahil et
+exclude = ["tests*"]  # "tests" ile başlayanları hariç tut (isteğe bağlı ama iyi pratik)
+# ------------------------------------
+
+[tool.ruff]
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I", "C", "B"]
+ignore = ["E501"]
+
+[tool.black]
+line-length = 88
+target-version = ['py39']
