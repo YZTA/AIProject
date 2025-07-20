@@ -63,34 +63,30 @@ Genel olarak ilk haftayı ürün bulma ve araştırma olarak geçirdik tüm ekip
 ----------------------------------------------------------------------------
 # Sprint 2
 ## Ürün Durumu:
-* Bu sprintte ürün fikri netleşti ve yapay zeka destekli kitap yorum analizi sistemine odaklanıldı. Backend tarafında veri toplama ve ön işleme süreçleri başladı. UI kısmında ise ilk taslaklar oluşturuldu. Aşağıya hem backend’e dair çıktılar hem de UI taslaklarımızın ekran görüntüleri eklenmiştir.
-![image](https://github.com/AliDmrcIo/AIProject/blob/main/fastapi.jpeg?raw=true)
+* Bu sprintte ürün fikri değiştirildi ve yapay zeka destekli kitap yorum analizi sistemine odaklanıldı. Backend tarafında veri toplama ve ön işleme süreçleri başladı. UI kısmında ise ilk taslaklar oluşturuldu. Aşağıya UI taslaklarımızın ekran görüntüleri eklenmiştir.
+<img width="929" height="502" alt="11" src="https://github.com/user-attachments/assets/1e5299c7-3b87-4896-8661-6b7f0f9daeb7" />
+<img width="918" height="416" alt="12" src="https://github.com/user-attachments/assets/ca369fe6-39a6-4e0e-8d78-4b454e4c0ee5" />
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 - **Puan tamamlama mantığı**:  Projenin toplam puanı 300 olarak belirlenmiştir. İlk sprintte fikir üretme ve araştırma yapıldığından dolayı daha az puan hedeflenmişti. Bu sprintte ürün fikri değişti ve teknik mimarisi oluşturulmaya başlandığı ve arayüz kısmına da geçildiği için 100 puan hedefi belirlenmiştir.
 - **Daily Scrum**: Daily Scrum toplantı notları Trello üzerindeki ''Daily Scrum Meeting Notes'' bölümünden ulaşabilirsiniz. Toplantılar Google meets üzerinden gerçekleştirilmiştir.
 - https://trello.com/b/Eje6mb0v/team103-2nd-sprint
- ![image](https://github.com/AliDmrcIo/AIProject/blob/main/WhatsApp%20Image%202025-07-09%20at%2010.37.47.jpeg?raw=true)
+ <img width="1440" height="669" alt="Image" src="https://github.com/user-attachments/assets/22a61eea-6b49-4793-af17-deb08487dd3d" />
 - **Sprint board update**: Sprint board screenshotları: 
-![image](https://github.com/AliDmrcIo/AIProject/blob/1e4bcf1c18cdb2e1a55a546df264506aee7ffff5/1st.sprint.ss.jpg)
+![Image](https://github.com/user-attachments/assets/870e8f1d-af5d-4fcc-85c5-7603e8421f52)
 - **Sprint Review**:
-* Ürün fikri tamamen netleştirildi.
+* Ürün fikri tamamen değiştirilip netleştirildi.
 * Kullanıcı senaryoları bu fikre göre güncellendi.
 * Kitaplara yapılan yorumlar üzerinden duygu analizi yapacak sistemin veri seti araştırması başlatıldı.
 * İlk yapay zeka modeli geliştirildi ve örnek analizler yapıldı.
 * Backend servisleri Flask ile hazırlandı.
-* UI tasarımlarına başlandı ve ana sayfa + kitap detay sayfası planlandı.
+* UI tasarımlarına başlandı.
 * Görev dağılımı netleştirildi ve puan bazlı ilerleme takibi yapılmaya başlandı.
 - **Sprint Retrospektif**:
 * İlk sprintte görev alamayan arkadaşlarımıza ikinci sprintte görev tanımlamaları yapıldı.
-* UI UX tasarım bölümü için daha fazla zaman ayırmaya karar verildi.
+* UI/UX tasarım bölümü için daha fazla zaman ayırmaya karar verildi.
 * İlk ve ikinci sprintte sprint hızımız yavaş kaldı, bunun kritiği yapıldı ve tamamlanması gerekenler 3. sprinte ertelendi.
 * Önümüzdeki sprintin ortalama puanı 150 olarak belirlendi, sprint hızına göre bu puan arttırılabilir.
 - **2.Sprint Notu**: 
 Bu sprintte artık ürün fikrimiz netleşti ve ekip olarak teknik geliştirmelere odaklanmaya başladık. Tüm ekip arkadaşlarım görevlerini zamanında teslim etmeye özen gösterdi. Backend tarafında ilk modeli geliştirip test ettik. UI tasarımı için temel çizimler yapıldı ve kullanıcı senaryolarına göre sayfa planlaması yapıldı. Üçüncü yani son sprintte ürünü tamamlamaya odaklanacağız.
-
-**UI/UX Prototip**:
-<img width="929" height="502" alt="11" src="https://github.com/user-attachments/assets/1e5299c7-3b87-4896-8661-6b7f0f9daeb7" />
-<img width="918" height="416" alt="12" src="https://github.com/user-attachments/assets/ca369fe6-39a6-4e0e-8d78-4b454e4c0ee5" />
-
 ----------------------------------------------------------------------------
 
