@@ -87,5 +87,10 @@ Genel olarak ilk haftayı ürün bulma ve araştırma olarak geçirdik tüm ekip
 * Önümüzdeki sprintin ortalama puanı 150 olarak belirlendi, sprint hızına göre bu puan arttırılabilir.
 - **2.Sprint Notu**: 
 Bu sprintte artık ürün fikrimiz netleşti ve ekip olarak teknik geliştirmelere odaklanmaya başladık. Tüm ekip arkadaşlarım görevlerini zamanında teslim etmeye özen gösterdi. Backend tarafında ilk modeli geliştirip test ettik. UI tasarımı için temel çizimler yapıldı ve kullanıcı senaryolarına göre sayfa planlaması yapıldı. Üçüncü yani son sprintte ürünü tamamlamaya odaklanacağız.
+
+**UI/UX Prototip**:
+<img width="929" height="502" alt="11" src="https://github.com/user-attachments/assets/1e5299c7-3b87-4896-8661-6b7f0f9daeb7" />
+<img width="918" height="416" alt="12" src="https://github.com/user-attachments/assets/ca369fe6-39a6-4e0e-8d78-4b454e4c0ee5" />
+
 ----------------------------------------------------------------------------
 
