@@ -4,6 +4,8 @@ pydantic-settings
 sqlalchemy
 psycopg2-binary
 alembic
+transformers
+torch
 
 [dev]
 pytest

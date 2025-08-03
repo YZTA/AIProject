@@ -10,6 +10,8 @@ Requires-Dist: pydantic-settings
 Requires-Dist: sqlalchemy
 Requires-Dist: psycopg2-binary
 Requires-Dist: alembic
+Requires-Dist: transformers
+Requires-Dist: torch
 Provides-Extra: dev
 Requires-Dist: pytest; extra == "dev"
 Requires-Dist: httpx; extra == "dev"
