@@ -7,11 +7,17 @@ Requires-Python: >=3.9
 Requires-Dist: fastapi
 Requires-Dist: uvicorn[standard]
 Requires-Dist: pydantic-settings
+Requires-Dist: pydantic[email]
 Requires-Dist: sqlalchemy
 Requires-Dist: psycopg2-binary
 Requires-Dist: alembic
 Requires-Dist: transformers
 Requires-Dist: torch
+Requires-Dist: jinja2
+Requires-Dist: python-multipart
+Requires-Dist: google-generativeai
+Requires-Dist: passlib[bcrypt]
+Requires-Dist: python-jose[cryptography]
 Provides-Extra: dev
 Requires-Dist: pytest; extra == "dev"
 Requires-Dist: httpx; extra == "dev"

@@ -10,11 +10,17 @@ dependencies = [
     "fastapi",
     "uvicorn[standard]",
     "pydantic-settings",
+    "pydantic[email]",
     "sqlalchemy",
     "psycopg2-binary",
     "alembic",
-    "transformers",  # <-- BU SATIRI EKLEYİN
-    "torch",         # <-- BU SATIRI EKLEYİN
+    "transformers",
+    "torch",
+    "jinja2",
+    "python-multipart",
+    "google-generativeai",
+    "passlib[bcrypt]", # <-- Şifre hash'leme için. [bcrypt] en popüler algoritmadır.
+    "python-jose[cryptography]", # <-- JWT işlemleri için.
 ]
 
 [project.optional-dependencies]
